@@ -10,5 +10,5 @@ A simple MCP server.
 6. The response is displayed to you
 
 ## How to run
-![mcp-guide](https://modelcontextprotocol.io/quickstart/server)
+[mcp-guide](https://modelcontextprotocol.io/quickstart/server)
 
